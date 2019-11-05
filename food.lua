@@ -152,7 +152,6 @@ items["fishnchips"] = {"Fish n chips","", gen("Spis",-10,35),0.5}
 -- is
 items["daimis"] = {"Daim is","", gen("Spis",-25,0),0.5}
 items["børneis"] = {"Børne is","", gen("Spis",-25,0),0.5}
-items["polariswaffelis"] = {"Polaris waffel is","", gen("Spis",-25,0),0.5}
 items["deluxewaffelis"] = {"Deluxe waffel is","", gen("Spis",-25,0),0.5}
 items["jordbærwaffelis"] = {"Jordbær waffel is","", gen("Spis",-25,0),0.5}
 items["chokoladewaffelis"] = {"Chokolade waffel is","", gen("Spis",-25,0),0.5}
